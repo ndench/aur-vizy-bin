@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Vizy
+Comment=Vizy
+GenericName=Vizy for Linux
+Exec=/usr/bin/vizy %U
+Icon=/usr/share/pixmaps/vizy.png
+Type=Application
+StartupNotify=true
+Categories=Network;InstantMessaging;VideoConference;
+MimeType=x-scheme-handler/vizy;
+
